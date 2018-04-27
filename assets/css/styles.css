@@ -1,0 +1,9 @@
+.bg-image {
+    background: url('../images/main-image.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 300px;
+}
+
+.form-group label {
+    color:#fff;
+}
